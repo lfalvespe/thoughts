@@ -18,5 +18,5 @@ Dependências:
 <br><br>
 
 <center>
-    <img src="public/img/thoughts.png" height=300>
+    <img src="public/img/screenshot-thoughts.png" height=300>
 </center>
