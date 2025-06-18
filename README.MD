@@ -14,3 +14,9 @@ Dependências:
 10. Cookie-parser
 11. Cookie-session
 12. Nodemon
+
+<br><br>
+
+<center>
+    <img src="public/img/thoughts.png" height=300>
+</center>
