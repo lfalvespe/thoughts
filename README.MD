@@ -1,5 +1,7 @@
 #PROJETO THOUGHTS
 
+Projeto de postagem de pensamentos com sistema de login e cadastro em NODE JS.
+
 Dependências:
 
 1. Express
